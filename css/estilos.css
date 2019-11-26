@@ -1,0 +1,98 @@
+* {
+    box-sizing: border-box;
+  }
+  
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav li active{
+	font-weight: bold;
+}
+
+.contenido{
+  display: flex;
+  flex-flow: column nowrap;
+}
+.menu{
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.fotopersona img {
+
+  width: 300px;
+  height: 300px;
+}
+
+.informacion{
+    margin-top: 60px;
+    flex: 2 1 auto;
+    display: flex;
+    flex-flow: row wrap;
+  }
+
+.pie {
+  flex-shrink: none;
+}
+
+iframe{
+  overflow:hidden;
+}
+
+#page-cont{
+  flex: 1 0 auto;
+}
+
+.foto {
+    margin-right: 135px;
+    position: relative;
+    display: inline-block;
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	-webkit-transition: .1s ease-in-out;
+	transition: .1s ease-in-out;
+}
+
+
+.foto{
+    width: 100px;
+}
+.foto:hover{
+   	-webkit-filter: grayscale(0);
+	filter: grayscale(0);
+}
+
+/* Galeria con reposive */
+@media screen {
+  .foto {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 100px;
+  }
+	.galeria{
+		display: inline;
+	}
+	
+	.galMob{
+		display: none;
+	}
+}
+
+
+@media screen and (max-width: 600px) {
+  .foto {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 300px;
+  }
+	.galeria{
+		display: none;
+	}
+	.galMob{
+		display: inline;
+	}
+}
