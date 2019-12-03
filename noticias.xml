@@ -6,6 +6,13 @@
         <tittle>Canal de pepe</tittle>
         <link>http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com/</link>
         <description>Noticias de pepe</description>
+
+        <item>
+            <tile>Pizza Time</tile>
+            <link>https://www.youtube.com/watch?v=lpvT-Fciu-4</link>
+            <description><iframe width="560" height="315" src="https://www.youtube.com/embed/lpvT-Fciu-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></description>
+        </item>
+
         
         <item>
             <tile>Noticias de hoy</tile>
