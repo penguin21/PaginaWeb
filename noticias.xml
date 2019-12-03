@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0">
+
+    <channel>
+        <tittle>Canal de pepe</tittle>
+        <link>http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com/</link>
+        <description>Noticias de pepe</description>
+        
+        <item>
+            <tile>Noticias de hoy</tile>
+            <link>https://www.elmundo.es/espana/2019/12/03/5de5e721fc6c83373f8b4579.html</link>
+            <description>Noticias de hoy</description>
+        </item>
+    </channel>
+</rss>
