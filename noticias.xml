@@ -12,8 +12,7 @@
             <link>https://www.youtube.com/watch?v=ruCywY_-ozM</link>
 
             <embed width="560" height="315" src="https://www.youtube.com/embed/ruCywY_-ozM" 
-            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-            allowfullscreen></embed>
+            frameborder="0"></embed>
             <description>
                 Le ecanta la zanahoria
             </description>
@@ -24,8 +23,7 @@
             <link>https://www.youtube.com/watch?v=lpvT-Fciu-4</link>
 
             <embed width="560" height="315" src="https://www.youtube.com/embed/lpvT-Fciu-4" 
-            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-            allowfullscreen></embed>
+            frameborder="0"></embed>
             <description>
                 Hora de la pizza
             </description>
