@@ -10,12 +10,16 @@
         <item>
             <tile>Pez Globo comiendo una zanahoria</tile>
             <link>https://www.youtube.com/watch?v=ruCywY_-ozM</link>
+
             <media:thumbnail url='https://img.youtube.com/vi/ruCywY_-ozM/maxresdefault.jpg' height='300' width='300'/>
             <embed width="560" height="315" src="https://www.youtube.com/embed/ruCywY_-ozM" 
             frameborder="0"></embed>
             <description>
+            <![CDATA[
                 Le ecanta la zanahoria
+                ]]>
             </description>
+            <guid>https://www.youtube.com/watch?v=ruCywY_-ozM</guid>
         </item>
 
         <item>
@@ -26,8 +30,11 @@
             <embed width="560" height="315" src="https://www.youtube.com/embed/lpvT-Fciu-4" 
             frameborder="0"></embed>
             <description>
+            <![CDATA[
                 Hora de la pizza
+                ]]>
             </description>
+            <guid>https://www.youtube.com/watch?v=lpvT-Fciu-4</guid>
         </item>
 
         
