@@ -8,7 +8,7 @@
         <description>Noticias de pepe</description>
 
         <item>
-            <tile>Pez Globo comiendo una zanahoria</tile>
+            <title>Pez Globo comiendo una zanahoria</title>
             <link>https://www.youtube.com/watch?v=ruCywY_-ozM</link>
 
             <media:thumbnail url='https://img.youtube.com/vi/ruCywY_-ozM/hqdefault.jpg' height='300' width='300'/>
@@ -23,7 +23,7 @@
         </item>
 
         <item>
-            <tile>Pizza Time</tile>
+            <title>Pizza Time</title>
             <link>https://www.youtube.com/watch?v=lpvT-Fciu-4</link>
             
             <media:thumbnail url='https://img.youtube.com/vi/lpvT-Fciu-4/maxresdefault.jpg' height='300' width='300'/>
@@ -39,9 +39,9 @@
 
         
         <item>
-            <tile>Noticias de hoy</tile>
+            <title>Noticias de hoy</title>
             <link>https://www.elmundo.es/espana/2019/12/03/5de5e721fc6c83373f8b4579.html</link>
-            <description>Noticias de hoy</description>
+            <description>Noticias de hoy que no va ser para nada.</description>
         </item>
     </channel>
 </rss>
