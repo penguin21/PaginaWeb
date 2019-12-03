@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0">
 
     <channel>
         <title>Canal de pepe</title>
@@ -11,7 +11,6 @@
             <title>Pez Globo comiendo una zanahoria</title>
             <link>https://www.youtube.com/watch?v=ruCywY_-ozM</link>
 
-            <media:thumbnail url='https://img.youtube.com/vi/ruCywY_-ozM/hqdefault.jpg' height='300' width='300'/>
             <embed width="560" height="315" src="https://www.youtube.com/embed/ruCywY_-ozM" 
             frameborder="0"></embed>
             <description>
@@ -26,7 +25,6 @@
             <title>Pizza Time</title>
             <link>https://www.youtube.com/watch?v=lpvT-Fciu-4</link>
             
-            <media:thumbnail url='https://img.youtube.com/vi/lpvT-Fciu-4/maxresdefault.jpg' height='300' width='300'/>
             <embed width="560" height="315" src="https://www.youtube.com/embed/lpvT-Fciu-4" 
             frameborder="0"></embed>
             <description>
