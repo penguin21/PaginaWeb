@@ -3,7 +3,7 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 
     <channel>
-        <tittle>Canal de pepe</tittle>
+        <title>Canal de pepe</title>
         <link>http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com/</link>
         <description>Noticias de pepe</description>
 
