@@ -8,9 +8,27 @@
         <description>Noticias de pepe</description>
 
         <item>
+            <tile>Pez Globo comiendo una zanahoria</tile>
+            <link>https://www.youtube.com/watch?v=ruCywY_-ozM</link>
+
+            <embed width="560" height="315" src="https://www.youtube.com/embed/ruCywY_-ozM" 
+            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen></embed>
+            <description>
+                Le ecanta la zanahoria
+            </description>
+        </item>
+
+        <item>
             <tile>Pizza Time</tile>
             <link>https://www.youtube.com/watch?v=lpvT-Fciu-4</link>
-            <description><iframe width="560" height="315" src="https://www.youtube.com/embed/lpvT-Fciu-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></description>
+
+            <embed width="560" height="315" src="https://www.youtube.com/embed/lpvT-Fciu-4" 
+            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen></embed>
+            <description>
+                Hora de la pizza
+            </description>
         </item>
 
         
