@@ -65,7 +65,7 @@ iframe{
    	-webkit-filter: grayscale(0);
 	filter: grayscale(0);
 }
-
+/* Para el rss */
 .rss{
   width: 1.6%;
   margin-left: 98%;
