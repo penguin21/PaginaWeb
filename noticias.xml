@@ -10,7 +10,10 @@
         <item>
             <tile>Pez Globo comiendo una zanahoria</tile>
             <link>https://www.youtube.com/watch?v=ruCywY_-ozM</link>
-
+            <image>
+                <url>https://img.youtube.com/vi/ruCywY_-ozM/maxresdefault.jpg</url>
+                <link>https://www.youtube.com/watch?v=ruCywY_-ozM</link>
+            </image>
             <embed width="560" height="315" src="https://www.youtube.com/embed/ruCywY_-ozM" 
             frameborder="0"></embed>
             <description>
@@ -21,7 +24,10 @@
         <item>
             <tile>Pizza Time</tile>
             <link>https://www.youtube.com/watch?v=lpvT-Fciu-4</link>
-
+            <image>
+                <url>https://img.youtube.com/vi/lpvT-Fciu-4/maxresdefault.jpg</url>
+                <link>https://www.youtube.com/watch?v=lpvT-Fciu-4</link>
+            </image>
             <embed width="560" height="315" src="https://www.youtube.com/embed/lpvT-Fciu-4" 
             frameborder="0"></embed>
             <description>
