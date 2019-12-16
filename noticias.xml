@@ -11,22 +11,18 @@
             <title>Pez Globo comiendo una zanahoria</title>
             <link>https://www.youtube.com/watch?v=ruCywY_-ozM</link>
 
-            <embed width="560" height="315" src="https://www.youtube.com/embed/ruCywY_-ozM" 
-            frameborder="0"></embed>
             <description>
             <![CDATA[
                 Le ecanta la zanahoria y le pone muchisimo
                 ]]>
             </description>
-            <guid>https://www.youtube.com/watch?v=ruCywY_-ozM</guid>
+            <guid>http://i3.ytimg.com/vi/ruCywY_-ozM/hqdefault.jpg</guid>
         </item>
 
         <item>
             <title>Pizza Time</title>
             <link>https://www.youtube.com/watch?v=lpvT-Fciu-4</link>
             
-            <embed width="560" height="315" src="https://www.youtube.com/embed/lpvT-Fciu-4" 
-            frameborder="0"></embed>
             <description>
             <![CDATA[ <iframe width="560" height="315" src="https://www.youtube.com/embed/lpvT-Fciu-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 Hora de la pizza
