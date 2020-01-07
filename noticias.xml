@@ -1,38 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-
 <rss version="2.0">
-
+<!--Se define el canal-->
     <channel>
-        <title>Canal de pepe</title>
-        <link>http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com</link>
-        <description>Noticias de pepe</description>
+        <title>Canal de pepe</title><!--Se define el titulo del canal-->
+        <link>http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com</link><!--Se fine el link de la pagina-->
+        <description>Noticias de pepe</description><!--Se define la descripcion de la pagina-->
+        <language>es</language><!--El idioma que usa el canal-->
 
-        <item>
+        <item autor="Pepe"><!--El tag item sirve para crear un post de noticia por ejemplo-->
             <title>Pez Globo comiendo una zanahoria</title>
             <link>https://www.youtube.com/watch?v=ruCywY_-ozM</link>
-
             <description>
             <![CDATA[
-                Le ecanta la zanahoria y le pone muchisimo
+                Le ecanta la zanahoria y le pone muchisimo<p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/ruCywY_-ozM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 ]]>
+                <!--El CDATA sirve como para convertirlo en html la descripcion que se pone-->
             </description>
-            <guid>https://www.youtube.com/watch?v=ruCywY_-ozM</guid>
+            <guid>https://www.youtube.com/watch?v=ruCywY_-ozM</guid><!--El identificador unico global(GUID) define un identiciador unico al item-->
         </item>
 
-        <item>
+        <item autor="Pepe">
             <title>Pizza Time</title>
             <link>https://www.youtube.com/watch?v=lpvT-Fciu-4</link>
             
             <description>
             <![CDATA[ <iframe width="560" height="315" src="https://www.youtube.com/embed/lpvT-Fciu-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                Hora de la pizza
+                Hora de la pizza<p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/lpvT-Fciu-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 ]]>
             </description>
             <guid>https://www.youtube.com/watch?v=ruCywY_-ozM</guid>
         </item>
 
         
-        <item>
+        <item autor="Pepe">
             <title>Noticias de hoy</title>
             <link>https://www.elmundo.es/espana/2019/12/03/5de5e721fc6c83373f8b4579.html</link>
             <description>Noticias de hoy que no va ser para nada.</description>
@@ -40,3 +42,4 @@
         </item>
     </channel>
 </rss>
+<!--Pagina Web publicado con el RSS: http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com/noticias.xml -->
