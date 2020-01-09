@@ -71,6 +71,11 @@ iframe{
   margin-left: 98%;
 }
 
+/* Para el icono del cc */
+.cc{
+  left: 77%;
+}
+
 /* Galeria con reposive */
 @media screen {
   .foto {
@@ -82,6 +87,11 @@ iframe{
   .rss{
     width: 1.6%;
     margin-left: 98%;
+  }
+
+  .cc{
+    width: 25%;
+    margin-left: 75%;
   }
 	.galeria{
 		display: inline;
@@ -104,6 +114,11 @@ iframe{
   .rss{
     width: 45.6%;
     margin-left: 0;
+  }
+
+  .cc{
+    width: 45.6%;
+    margin-left: 0%;
   }
 
 	.galeria{
