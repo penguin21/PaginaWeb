@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Pagina de pepe</title>
+	<subtitle>Un subtitlo de atom</subtitle>
+	<link href="http://example.org/feed/" rel="self" />
+	<link href="http://example.org/" />
+	
+	<entry>
+		<title>Pizza time</title>
+		<link href="https://www.youtube.com/watch?v=lpvT-Fciu-4" />
+		<id>2</id>
+		<summary>Hora de la pizza</summary>
+		<author>
+			<name>Pepe</name>
+			<email>pepesanchezjose68@gmail.com</email>
+		</author>
+	</entry>
+
+	<entry>
+		<title>Este pez la pone durisima con gemido</title>
+		<link href="https://www.youtube.com/watch?v=ewhq0ZLiyu0" />
+		<id>1</id>
+		<summary>Se la pone durisima</summary>
+		<author>
+			<name>Pepe</name>
+			<email>pepesanchezjose68@gmail.com</email>
+		</author>
+	</entry>
+
+</feed>
