@@ -4,8 +4,8 @@
 
 	<title>Pagina de pepe</title>
 	<subtitle>Un subtitlo de atom</subtitle>
-	<link href="http://example.org/feed/" rel="self" />
-	<link href="http://example.org/" />
+	<link href="http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com/atom.xml" rel="self" />
+	<link href="http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com/" />
 	
 	<entry>
 		<title>Pizza time</title>
