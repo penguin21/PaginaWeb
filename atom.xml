@@ -6,11 +6,12 @@
 	<link href="http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com/atom.xml" rel="self" />
 	<link href="http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com/" />
 	<updated>2020-01-13T12:16:11Z</updated>
+    <id>urn:uuid:3cbc0148-a864-4866-937a-c9f8d6a357c9</id>
 
 	<entry>
 		<title>Pizza time</title>
 		<link href="https://www.youtube.com/watch?v=lpvT-Fciu-4" />
-		<id>lpvT-Fciu-4</id>
+		<id>urn:uuid:8edc1d6e-f643-43f8-84d4-4010f858478d</id>
         <updated>2020-01-13T12:13:52Z</updated>
 		<summary>Hora de la pizza</summary>
 		<author>
@@ -22,7 +23,7 @@
 	<entry>
 		<title>Este pez la pone durisima con gemido</title>
 		<link href="https://www.youtube.com/watch?v=ewhq0ZLiyu0" />
-		<id>ewhq0ZLiyu0</id>
+		<id>urn:uuid:41a3be40-5dd9-4feb-bbb3-dbeeed004da8</id>
         <updated>2020-01-13T12:13:47Z</updated>
 		<summary>Se la pone durisima</summary>
 		<author>
