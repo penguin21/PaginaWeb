@@ -11,6 +11,8 @@
 	<entry>
 		<title>Pizza time</title>
 		<link href="https://www.youtube.com/watch?v=lpvT-Fciu-4" />
+		<link rel="enclosure" type="image/jpg" length="1337"
+        href="http://i3.ytimg.com/vi/lpvT-Fciu-4/maxresdefault.jpg"/>
 		<id>urn:uuid:8edc1d6e-f643-43f8-84d4-4010f858478d</id>
         <updated>2020-01-13T12:13:52Z</updated>
 		<summary>Hora de la pizza</summary>
