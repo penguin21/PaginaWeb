@@ -1,35 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-
 	<title>Pagina de pepe</title>
-	<subtitle>Un subtitlo de atom</subtitle>
-	<link href="http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com/atom.xml" rel="self" />
-	<link href="http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com/" />
-	<updated>2020-01-13T12:16:11Z</updated>
-    <id>urn:uuid:3cbc0148-a864-4866-937a-c9f8d6a357c9</id>
+	<subtitle>Pagina de pepe</subtitle>
+	<link href="http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com/atom.xml"/>
+	<generator uri="http://easy-feed-editor.tk" version="1.0">dotFeedLib</generator>
+	<author><name>Pepe</name></author>
+	<updated>2020-01-14T11:59:08+01:00</updated>
+	<link href="http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com/atom.xml" rel="self" type="application/atom+xml" />
+	
+	<entry>
+		<title>Big Chungus</title>
+		<content type="html"><![CDATA[<p>
+			<img alt="" src="https://i.kym-cdn.com/photos/images/original/001/442/330/d6a.jpg" style="width: 446px; height: 562px;" /></p>
+		<p>
+			El Chungus a regresado</p>
+		]]></content>
+		<summary type="html"><![CDATA[<p>
+			<img alt="" src="https://i.kym-cdn.com/photos/images/original/001/442/330/d6a.jpg" style="width: 446px; height: 562px;" /></p>
+		<p>
+			El Chungus a regresado</p>
+		]]></summary>
+		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=uF49w6UcZzk"/>
+		<author><name>Pepe</name></author>
+		<link rel="enclosure" href="https://i.pinimg.com/originals/09/0c/b6/090cb60ad31b668e3cd324c8224122f0.jpg" type="image/jpeg" length="81228" title="Enclosure" />
+		<updated>2020-01-14T11:59:04+01:00</updated>
+	</entry>
 
 	<entry>
 		<title>Pizza time</title>
-		<link href="https://www.youtube.com/watch?v=lpvT-Fciu-4" />
-		<id>urn:uuid:8edc1d6e-f643-43f8-84d4-4010f858478d</id>
-        <updated>2020-01-13T12:13:52Z</updated>
-		<summary><![CDATA[<img src="http://i3.ytimg.com/vi/lpvT-Fciu-4/maxresdefault.jpg"/><p>Hora de la pizza]]></summary>
-		<author>
-			<name>Pepe</name>
-			<email>pepesanchezjose68@gmail.com</email>
-		</author>
+
+		<content type="html"><![CDATA[<p>
+			<img src="http://i3.ytimg.com/vi/lpvT-Fciu-4/maxresdefault.jpg" /></p>
+		<p>
+			Hora de la pizza</p>
+		]]></content>
+		<summary type="html"><![CDATA[<p>
+			<img src="http://i3.ytimg.com/vi/lpvT-Fciu-4/maxresdefault.jpg" /></p>
+		<p>
+			Hora de la pizza</p>
+		]]></summary>
+		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=lpvT-Fciu-4"/>
+		<author><name>Pepepepesanchezjose68@gmail.com</name></author>
+		<link rel="enclosure" href="http://i3.ytimg.com/vi/lpvT-Fciu-4/maxresdefault.jpg" type="image/jpeg" length="118190" title="Enclosure" />
+		<updated>2020-01-14T11:59:07+01:00</updated>
 	</entry>
 
 	<entry>
 		<title>Este pez la pone durisima con gemido</title>
-		<link href="https://www.youtube.com/watch?v=ewhq0ZLiyu0" />
-		<id>urn:uuid:41a3be40-5dd9-4feb-bbb3-dbeeed004da8</id>
-        <updated>2020-01-13T12:13:47Z</updated>
-		<summary><![CDATA[<img src="http://i3.ytimg.com/vi/ewhq0ZLiyu0/maxresdefault.jpg"/><p>Se la pone durisima]]></summary>
-		<author>
-			<name>Pepe</name>
-			<email>pepesanchezjose68@gmail.com</email>
-		</author>
-	</entry>
 
+		<content type="html"><![CDATA[<p>
+			<img src="https://i.imgflip.com/3hcn8v.gif" style="width: 261px; height: 193px;" /></p>
+		<p>
+			Se la pone durisima</p>
+		]]></content>
+		<summary type="html"><![CDATA[<p>
+			<img src="https://i.imgflip.com/3hcn8v.gif" style="width: 261px; height: 193px;" /></p>
+		<p>
+			Se la pone durisima</p>
+		]]></summary>
+		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ewhq0ZLiyu0"/>
+		<author><name>Pepepepesanchezjose68@gmail.com</name></author>
+		<link rel="enclosure" href="https://i.imgflip.com/3hcn8v.gif" type="image/gif" length="3621550" title="Enclosure" />
+		<updated>2020-01-14T11:59:01+01:00</updated>
+	</entry>
 </feed>
