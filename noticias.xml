@@ -1,52 +1,63 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-<!--Se define el canal-->
-    <channel>
-        <title>Canal de pepe</title><!--Se define el titulo del canal-->
-        <link>http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com</link><!--Se fine el link de la pagina-->
-        <description>Noticias de pepe</description><!--Se define la descripcion de la pagina-->
-        <language>es</language><!--El idioma que usa el canal-->
-
-        <item autor="Pepe"><!--El tag item sirve para crear un post de noticia por ejemplo-->
-            <title>Pez Globo comiendo una zanahoria</title>
-            <link>https://www.youtube.com/watch?v=ruCywY_-ozM</link>
-            <description>
-            <![CDATA[
-                Le ecanta la zanahoria y le pone muchisimo<p>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/ruCywY_-ozM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                ]]>
-                <!--El CDATA sirve como para convertirlo en html la descripcion que se pone-->
-            </description>
-            <guid>http://i3.ytimg.com/vi/ruCywY_-ozM/hqdefault.jpg</guid><!--El identificador unico global(GUID) define un identiciador unico al item-->
-        </item>
-
-        <item autor="Pepe">
-            <title>Pizza Time</title>
-            <link>https://www.youtube.com/watch?v=lpvT-Fciu-4</link>
-            
-            <description>
-            <![CDATA[ <iframe width="560" height="315" src="https://www.youtube.com/embed/lpvT-Fciu-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                Hora de la pizza<p>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/lpvT-Fciu-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                ]]>
-            </description>
-            <guid>http://i3.ytimg.com/vi/lpvT-Fciu-4/maxresdefault.jpg</guid>
-        </item>
-
-    
-       <item autor="Pepe">
-            <title>Noticias de hoy</title>
-            <link>https://www.elmundo.es/espana/2019/12/03/5de5e721fc6c83373f8b4579.html</link>
-            <description>Noticias de hoy que no va ser para nada.</description>
-            <guid>https://www.elmundo.es/espana/2019/12/03/5de5e721fc6c83373f8b4579.html</guid>
-        </item>
-        
-        <item autor="Pepe">
-            <title>Tengo miedo</title>
-            <link>https://www.youtube.com/watch?v=II5Be6yHWno</link>
-            <description>Y mucho.</description>
-            <guid>http://i3.ytimg.com/vi/II5Be6yHWno/maxresdefault.jpg</guid>
-        </item>
-    </channel>
+  <channel>
+    <title>Canal de pepe</title>
+    <link>http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com</link>
+    <description>Noticias de pepe</description>
+    <language>es</language>
+    <pubDate>Tue, 21 Jan 2020 10:53:25 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Jan 2020 11:11:43 GMT</lastBuildDate>
+    <generator>Absolute RSS Editor</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Bienvenidos a las tarjetas gráficas con 20 GB de memoria: estos son los rumores sobre las futuras GeForce RTX 3000 de NVIDIA</title>
+      <link>https://www.xataka.com/componentes/bienvenidos-a-tarjetas-graficas-20-gb-memoria-estos-rumores-futuras-geforce-rtx-3000-nvidia</link>
+      <description>&lt;p&gt;Este a&amp;ntilde;o va a ponerse la mar de interesante en el &amp;aacute;mbito de las gr&amp;aacute;ficas. AMD prepara su lanzamiento con gr&amp;aacute;ficas de alta gama con arquitectura "Big Navi", Intel ofrecer&amp;aacute; sus primeras GPU dedicadas en dos d&amp;eacute;cadas y NVIDIA no quiere quedarse atr&amp;aacute;s tampoco: est&amp;aacute; preparando el lanzamiento de su nueva familia de gr&amp;aacute;ficas GeForce RTX 3000.&lt;/p&gt;
+&lt;p&gt;Los rumores sobre las GeForce RTX 3070 y las RTX 3080 -las primeras representantes de esta serie- empiezan a aparecer en medios t&amp;eacute;cnicos, y si se cumplen las expectativas estaremos ante una generaci&amp;oacute;n que volver&amp;aacute; a representar una vuelta de tuerca prometedora a los modelos actuales. Las especificaciones son llamativas, pero una probablemente destaca sobre las dem&amp;aacute;s: la presencia de modelos con hasta 20 GB de memoria GDDR6, aunque estos parece que estar&amp;aacute;n destinados al segmento profesional.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;M&amp;aacute;s potentes (&amp;iquest;y caras?) que nunca&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La arquitectura Ampere de NVIDIA se plantea como sustituta de esa nueva filosof&amp;iacute;a que la empresa inaugur&amp;oacute; con Turing: vuelve la apuesta por el trazado de rayos y los cores dedicados al &amp;aacute;mbito de la inteligencia artificial y el machine learning, pero adem&amp;aacute;s contaremos con las ventajas que impone la litograf&amp;iacute;a de 7 nm con la que estar&amp;aacute;n fabricadas.&lt;br /&gt;&lt;img src="https://i.blogs.es/d9a08d/ampere2/1366_2000.jpg" border="0" alt="NVIDIA AMPERIE" title="NVIDIA AMPERIE" width="514" height="313" /&gt;&lt;/p&gt;
+&lt;p&gt;Evidentemente la otra gran apuesta es la del gaming, y con estas nuevas gr&amp;aacute;ficas tendremos dos nuevos GPUs, el GA103 y GA104 que sustituir&amp;aacute;n a los actuales TU102, TU104 y TU106 y que contar&amp;aacute;n con nas prestaciones sorprendentes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NVIDIA GA103: enfocado a la gama m&amp;aacute;s alta, contar&amp;aacute; seg&amp;uacute;n los datos filtrados por MyDrivers con 60 SM y un total de 3.840 Shaders. El bus de memoria ser&amp;aacute; de 320 bits, y se plantean modelos con 10 GB y con hasta 20 GB de memoria GDDR6.&lt;/li&gt;
+&lt;li&gt;&lt;br /&gt;NVIDIA GA104: algo m&amp;aacute;s discretas, estos procesadores gr&amp;aacute;ficos apuntan a tener 48 SM, 3.072 Shaders y un bus de memoria de 256 bits. Las configuraciones de memoria tambi&amp;eacute;n son m&amp;aacute;s "modestas" y oscilar&amp;aacute;n entre los 8 y los 16 GB de memoria GDDR6.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;No todas las especificaciones aplastana a sus antecesoras, y de hecho la actual RTX 2080 Ti cuenta con 68 SM y 4.352 Shaders, mientras que su configuraci&amp;oacute;n de memoria s&amp;iacute; baja a los 11 GB de memoria GDDR6. Se espera no obstante que la nueva arquitectura Ampere ayude junto a mayor frecuencia de trabajo a lograr rendimientos sensiblemente superiores a sus antecesoras.&lt;/p&gt;
+&lt;p&gt;Es imposible saber cu&amp;aacute;l ser&amp;aacute; esa diferencia de rendimiento entre gamas equivalentes, pero todo apunta a que tendremos de nuevo gr&amp;aacute;ficas que representan un nuevo salto en rendimiento pero que tambi&amp;eacute;n tendr&amp;aacute;n precios tan elevados -o quiz&amp;aacute;s m&amp;aacute;s- como los de la generaci&amp;oacute;n actual, algo que fue criticado con las RTX 2070 y RTX 2080 durante su lanzamiento y que podr&amp;iacute;a provocar nuevas cr&amp;iacute;ticas en ese hipot&amp;eacute;tico lanzamiento.&lt;/p&gt;</description>
+      <author>pepesanchezjose68@gmail.com</author>
+      <guid isPermaLink="false">6353EAC6-425E-470E-9D9F-598D9BF9C9E8</guid>
+      <pubDate>Tue, 21 Jan 2020 10:58:40 GMT</pubDate>
+      <source url="https://www.xataka.com/componentes/bienvenidos-a-tarjetas-graficas-20-gb-memoria-estos-rumores-futuras-geforce-rtx-3000-nvidia">Xataka</source>
+    </item>
+    <item>
+      <title>Pez Globo comiendo una zanahoria</title>
+      <link>https://www.youtube.com/watch?v=ruCywY_-ozM</link>
+      <description>Le ecanta la zanahoria y le pone muchisimo&lt;p&gt;
+                &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ruCywY_-ozM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</description>
+      <guid isPermaLink="false">http://i3.ytimg.com/vi/ruCywY_-ozM/hqdefault.jpg</guid>
+      <pubDate>Tue, 21 Jan 2020 10:53:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pizza Time</title>
+      <link>https://www.youtube.com/watch?v=lpvT-Fciu-4</link>
+      <description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lpvT-Fciu-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+                Hora de la pizza&lt;p&gt;
+                &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lpvT-Fciu-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</description>
+      <guid isPermaLink="false">http://i3.ytimg.com/vi/lpvT-Fciu-4/maxresdefault.jpg</guid>
+      <pubDate>Tue, 21 Jan 2020 10:53:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Noticias de hoy</title>
+      <link>https://www.elmundo.es/espana/2019/12/03/5de5e721fc6c83373f8b4579.html</link>
+      <description>Noticias de hoy que no va ser para nada.</description>
+      <guid isPermaLink="false">https://www.elmundo.es/espana/2019/12/03/5de5e721fc6c83373f8b4579.html</guid>
+      <pubDate>Tue, 21 Jan 2020 10:53:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tengo miedo</title>
+      <link>https://www.youtube.com/watch?v=II5Be6yHWno</link>
+      <description>Y mucho.</description>
+      <guid isPermaLink="false">http://i3.ytimg.com/vi/II5Be6yHWno/maxresdefault.jpg</guid>
+      <pubDate>Tue, 21 Jan 2020 10:53:25 GMT</pubDate>
+    </item>
+  </channel>
 </rss>
-<!--Pagina Web publicado con el RSS: http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com/noticias.xml -->
