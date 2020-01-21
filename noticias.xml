@@ -6,7 +6,7 @@
     <description>Noticias de pepe</description>
     <language>es</language>
     <pubDate>Tue, 21 Jan 2020 10:53:25 GMT</pubDate>
-    <lastBuildDate>Tue, 21 Jan 2020 11:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2020 11:48:51 GMT</lastBuildDate>
     <generator>Absolute RSS Editor</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
@@ -19,7 +19,7 @@
 &lt;p&gt;Evidentemente la otra gran apuesta es la del gaming, y con estas nuevas gr&amp;aacute;ficas tendremos dos nuevos GPUs, el GA103 y GA104 que sustituir&amp;aacute;n a los actuales TU102, TU104 y TU106 y que contar&amp;aacute;n con nas prestaciones sorprendentes:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;NVIDIA GA103: enfocado a la gama m&amp;aacute;s alta, contar&amp;aacute; seg&amp;uacute;n los datos filtrados por MyDrivers con 60 SM y un total de 3.840 Shaders. El bus de memoria ser&amp;aacute; de 320 bits, y se plantean modelos con 10 GB y con hasta 20 GB de memoria GDDR6.&lt;/li&gt;
-&lt;li&gt;&lt;br /&gt;NVIDIA GA104: algo m&amp;aacute;s discretas, estos procesadores gr&amp;aacute;ficos apuntan a tener 48 SM, 3.072 Shaders y un bus de memoria de 256 bits. Las configuraciones de memoria tambi&amp;eacute;n son m&amp;aacute;s "modestas" y oscilar&amp;aacute;n entre los 8 y los 16 GB de memoria GDDR6.&lt;/li&gt;
+&lt;li&gt;NVIDIA GA104: algo m&amp;aacute;s discretas, estos procesadores gr&amp;aacute;ficos apuntan a tener 48 SM, 3.072 Shaders y un bus de memoria de 256 bits. Las configuraciones de memoria tambi&amp;eacute;n son m&amp;aacute;s "modestas" y oscilar&amp;aacute;n entre los 8 y los 16 GB de memoria GDDR6.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;br /&gt;No todas las especificaciones aplastana a sus antecesoras, y de hecho la actual RTX 2080 Ti cuenta con 68 SM y 4.352 Shaders, mientras que su configuraci&amp;oacute;n de memoria s&amp;iacute; baja a los 11 GB de memoria GDDR6. Se espera no obstante que la nueva arquitectura Ampere ayude junto a mayor frecuencia de trabajo a lograr rendimientos sensiblemente superiores a sus antecesoras.&lt;/p&gt;
 &lt;p&gt;Es imposible saber cu&amp;aacute;l ser&amp;aacute; esa diferencia de rendimiento entre gamas equivalentes, pero todo apunta a que tendremos de nuevo gr&amp;aacute;ficas que representan un nuevo salto en rendimiento pero que tambi&amp;eacute;n tendr&amp;aacute;n precios tan elevados -o quiz&amp;aacute;s m&amp;aacute;s- como los de la generaci&amp;oacute;n actual, algo que fue criticado con las RTX 2070 y RTX 2080 durante su lanzamiento y que podr&amp;iacute;a provocar nuevas cr&amp;iacute;ticas en ese hipot&amp;eacute;tico lanzamiento.&lt;/p&gt;</description>
@@ -27,37 +27,6 @@
       <guid isPermaLink="false">6353EAC6-425E-470E-9D9F-598D9BF9C9E8</guid>
       <pubDate>Tue, 21 Jan 2020 10:58:40 GMT</pubDate>
       <source url="https://www.xataka.com/componentes/bienvenidos-a-tarjetas-graficas-20-gb-memoria-estos-rumores-futuras-geforce-rtx-3000-nvidia">Xataka</source>
-    </item>
-    <item>
-      <title>Pez Globo comiendo una zanahoria</title>
-      <link>https://www.youtube.com/watch?v=ruCywY_-ozM</link>
-      <description>Le ecanta la zanahoria y le pone muchisimo&lt;p&gt;
-                &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ruCywY_-ozM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</description>
-      <guid isPermaLink="false">http://i3.ytimg.com/vi/ruCywY_-ozM/hqdefault.jpg</guid>
-      <pubDate>Tue, 21 Jan 2020 10:53:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pizza Time</title>
-      <link>https://www.youtube.com/watch?v=lpvT-Fciu-4</link>
-      <description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lpvT-Fciu-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-                Hora de la pizza&lt;p&gt;
-                &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lpvT-Fciu-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</description>
-      <guid isPermaLink="false">http://i3.ytimg.com/vi/lpvT-Fciu-4/maxresdefault.jpg</guid>
-      <pubDate>Tue, 21 Jan 2020 10:53:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Noticias de hoy</title>
-      <link>https://www.elmundo.es/espana/2019/12/03/5de5e721fc6c83373f8b4579.html</link>
-      <description>Noticias de hoy que no va ser para nada.</description>
-      <guid isPermaLink="false">https://www.elmundo.es/espana/2019/12/03/5de5e721fc6c83373f8b4579.html</guid>
-      <pubDate>Tue, 21 Jan 2020 10:53:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tengo miedo</title>
-      <link>https://www.youtube.com/watch?v=II5Be6yHWno</link>
-      <description>Y mucho.</description>
-      <guid isPermaLink="false">http://i3.ytimg.com/vi/II5Be6yHWno/maxresdefault.jpg</guid>
-      <pubDate>Tue, 21 Jan 2020 10:53:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
