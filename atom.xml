@@ -1,66 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Pagina de pepe</title>
-	<subtitle>Pagina de pepe</subtitle>
-	<link href="http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com/atom.xml"/>
-	<generator uri="http://easy-feed-editor.tk" version="1.0">dotFeedLib</generator>
-	<author><name>Pepe</name></author>
-	<updated>2020-01-14T11:59:08+01:00</updated>
-	<link href="http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com/atom.xml" rel="self" type="application/atom+xml" />
-	
-	<entry>
-		<title>Big Chungus</title>
-		<content type="html"><![CDATA[<p>
+<title>Pagina de pepe</title>
+<subtitle>Pagina de pepe</subtitle>
+<link href="http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com/atom.xml"/>
+<generator uri="http://easy-feed-editor.tk" version="1.0">dotFeedLib</generator>
+<author><name>Pepe</name></author>
+<updated>2020-01-21T11:08:11+01:00</updated>
+<link href="http://prueba123-practicaweb.apps.ca-central-1.starter.openshift-online.com/atom.xml" rel="self" type="application/atom+xml" />
+<entry>
+<title>Big Chungus</title>
+
+<content type="html"><![CDATA[<p>
 			<img alt="" src="https://i.kym-cdn.com/photos/images/original/001/442/330/d6a.jpg" style="width: 446px; height: 562px;" /></p>
 		<p>
 			El Chungus a regresado</p>
 		]]></content>
-		<summary type="html"><![CDATA[<p>
+<summary type="html"><![CDATA[<p>
 			<img alt="" src="https://i.kym-cdn.com/photos/images/original/001/442/330/d6a.jpg" style="width: 446px; height: 562px;" /></p>
 		<p>
 			El Chungus a regresado</p>
 		]]></summary>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=uF49w6UcZzk"/>
-		<author><name>Pepe</name></author>
-		<link rel="enclosure" href="https://i.pinimg.com/originals/09/0c/b6/090cb60ad31b668e3cd324c8224122f0.jpg" type="image/jpeg" length="81228" title="Enclosure" />
-		<updated>2020-01-14T11:59:04+01:00</updated>
-	</entry>
+<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=uF49w6UcZzk"/>
+<author><name>Pepe</name></author>
+<link rel="enclosure" href="https://i.pinimg.com/originals/09/0c/b6/090cb60ad31b668e3cd324c8224122f0.jpg" type="image/jpeg" length="81228" title="Enclosure" />
+<updated>2020-01-14T11:59:04+01:00</updated>
+</entry>
+<entry>
+<title>Pizza time</title>
 
-	<entry>
-		<title>Pizza time</title>
-
-		<content type="html"><![CDATA[<p>
+<content type="html"><![CDATA[<p>
 			<img src="http://i3.ytimg.com/vi/lpvT-Fciu-4/maxresdefault.jpg" /></p>
 		<p>
 			Hora de la pizza</p>
 		]]></content>
-		<summary type="html"><![CDATA[<p>
+<summary type="html"><![CDATA[<p>
 			<img src="http://i3.ytimg.com/vi/lpvT-Fciu-4/maxresdefault.jpg" /></p>
 		<p>
 			Hora de la pizza</p>
 		]]></summary>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=lpvT-Fciu-4"/>
-		<author><name>Pepepepesanchezjose68@gmail.com</name></author>
-		<link rel="enclosure" href="http://i3.ytimg.com/vi/lpvT-Fciu-4/maxresdefault.jpg" type="image/jpeg" length="118190" title="Enclosure" />
-		<updated>2020-01-14T11:59:07+01:00</updated>
-	</entry>
+<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=lpvT-Fciu-4"/>
+<author><name>Pepepepesanchezjose68@gmail.com</name></author>
+<link rel="enclosure" href="http://i3.ytimg.com/vi/lpvT-Fciu-4/maxresdefault.jpg" type="image/jpeg" length="118190" title="Enclosure" />
+<updated>2020-01-14T11:59:07+01:00</updated>
+</entry>
+<entry>
+<title>Este pez come zanahoria</title>
 
-	<entry>
-		<title>Este pez la pone durisima con gemido</title>
-
-		<content type="html"><![CDATA[<p>
-			<img src="https://i.imgflip.com/3hcn8v.gif" style="width: 261px; height: 193px;" /></p>
-		<p>
-			Se la pone durisima</p>
-		]]></content>
-		<summary type="html"><![CDATA[<p>
-			<img src="https://i.imgflip.com/3hcn8v.gif" style="width: 261px; height: 193px;" /></p>
-		<p>
-			Se la pone durisima</p>
-		]]></summary>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ewhq0ZLiyu0"/>
-		<author><name>Pepepepesanchezjose68@gmail.com</name></author>
-		<link rel="enclosure" href="https://i.imgflip.com/3hcn8v.gif" type="image/gif" length="3621550" title="Enclosure" />
-		<updated>2020-01-14T11:59:01+01:00</updated>
-	</entry>
+<content type="html"><![CDATA[<p>
+	<img src="https://i.imgflip.com/3hcn8v.gif" style="width: 261px; height: 193px;" /></p>
+<p>
+	es interensante el video.</p>
+]]></content>
+<summary type="html"><![CDATA[<p>
+	<img src="https://i.imgflip.com/3hcn8v.gif" style="width: 261px; height: 193px;" /></p>
+<p>
+	es interensante el video.</p>
+]]></summary>
+<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ewhq0ZLiyu0"/>
+<author><name>Pepepepesanchezjose68@gmail.com</name></author>
+<link rel="enclosure" href="https://i.imgflip.com/3hcn8v.gif" type="image/gif" length="3621550" title="Enclosure" />
+<updated>2020-01-21T11:08:10+01:00</updated>
+</entry>
 </feed>
